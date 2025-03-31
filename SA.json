@@ -1,0 +1,333 @@
+{
+     "count": 10,
+     "filters": {
+          "season": 2023,
+          "limit": 10
+     },
+     "competition": {
+          "id": 2019,
+          "name": "Serie A",
+          "code": "SA",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/SA.png"
+     },
+     "season": {
+          "id": 1600,
+          "startDate": "2023-08-19",
+          "endDate": "2024-06-02",
+          "currentMatchday": 38,
+          "winner": null
+     },
+     "scorers": [
+          {
+               "player": {
+                    "id": 3220,
+                    "name": "Lautaro Mart\u00ednez",
+                    "firstName": "Lautaro",
+                    "lastName": "Mart\u00ednez",
+                    "dateOfBirth": "1997-08-22",
+                    "nationality": "Argentina",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 108,
+                    "name": "FC Internazionale Milano",
+                    "shortName": "Inter",
+                    "tla": "INT",
+                    "crest": "https://crests.football-data.org/108.png",
+                    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+                    "website": "http://www.inter.it",
+                    "founded": 1908,
+                    "clubColors": "Blue / Black",
+                    "venue": "Stadio Giuseppe Meazza",
+                    "lastUpdated": "2021-11-24T14:55:58Z"
+               },
+               "playedMatches": 35,
+               "goals": 24,
+               "assists": 5,
+               "penalties": 2
+          },
+          {
+               "player": {
+                    "id": 82002,
+                    "name": "Du\u0161an Vlahovi\u0107",
+                    "firstName": "Du\u0161an",
+                    "lastName": "Vlahovi\u0107",
+                    "dateOfBirth": "2000-01-28",
+                    "nationality": "Serbia",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 109,
+                    "name": "Juventus FC",
+                    "shortName": "Juventus",
+                    "tla": "JUV",
+                    "crest": "https://crests.football-data.org/109.png",
+                    "address": "Corso Galileo Ferraris, 32 Torino 10128",
+                    "website": "http://www.juventus.com",
+                    "founded": 1897,
+                    "clubColors": "White / Black",
+                    "venue": "Allianz Stadium",
+                    "lastUpdated": "2024-04-09T16:20:37Z"
+               },
+               "playedMatches": 33,
+               "goals": 16,
+               "assists": 3,
+               "penalties": 2
+          },
+          {
+               "player": {
+                    "id": 9434,
+                    "name": "Victor Osimhen",
+                    "firstName": "Victor",
+                    "lastName": "Osimhen",
+                    "dateOfBirth": "1998-12-29",
+                    "nationality": "Nigeria",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 113,
+                    "name": "SSC Napoli",
+                    "shortName": "Napoli",
+                    "tla": "NAP",
+                    "crest": "https://crests.football-data.org/113.png",
+                    "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+                    "website": "http://www.sscnapoli.it",
+                    "founded": 1904,
+                    "clubColors": "Sky Blue / White",
+                    "venue": "Stadio San Paolo",
+                    "lastUpdated": "2025-02-17T16:51:11Z"
+               },
+               "playedMatches": 26,
+               "goals": 15,
+               "assists": 4,
+               "penalties": 3
+          },
+          {
+               "player": {
+                    "id": 3371,
+                    "name": "Olivier Giroud",
+                    "firstName": "Olivier",
+                    "lastName": "Giroud",
+                    "dateOfBirth": "1986-09-30",
+                    "nationality": "France",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2025-03-27T09:48:55Z"
+               },
+               "team": {
+                    "id": 98,
+                    "name": "AC Milan",
+                    "shortName": "Milan",
+                    "tla": "MIL",
+                    "crest": "https://crests.football-data.org/98.png",
+                    "address": "Via Filippo Turati 3 Milano 20121",
+                    "website": "http://www.acmilan.com",
+                    "founded": 1899,
+                    "clubColors": "Red / Black",
+                    "venue": "Stadio Giuseppe Meazza",
+                    "lastUpdated": "2024-04-09T16:20:58Z"
+               },
+               "playedMatches": 36,
+               "goals": 15,
+               "assists": 7,
+               "penalties": 4
+          },
+          {
+               "player": {
+                    "id": 3851,
+                    "name": "Albert Gu\u00f0mundsson",
+                    "firstName": "Albert",
+                    "lastName": "Gu\u00f0mundsson",
+                    "dateOfBirth": "1997-06-15",
+                    "nationality": "Iceland",
+                    "section": "Offence",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2023-05-01T10:17:14Z"
+               },
+               "team": {
+                    "id": 107,
+                    "name": "Genoa CFC",
+                    "shortName": "Genoa",
+                    "tla": "GEN",
+                    "crest": "https://crests.football-data.org/107.png",
+                    "address": "Via Ronchi, 67 Genova 16155",
+                    "website": "http://www.genoacfc.it",
+                    "founded": 1893,
+                    "clubColors": "Red / Navy Blue",
+                    "venue": "Stadio Comunale Luigi Ferraris",
+                    "lastUpdated": "2024-04-09T16:20:41Z"
+               },
+               "playedMatches": 35,
+               "goals": 14,
+               "assists": 5,
+               "penalties": 4
+          },
+          {
+               "player": {
+                    "id": 2271,
+                    "name": "Duv\u00e1n Zapata",
+                    "firstName": "Duv\u00e1n",
+                    "lastName": "Zapata",
+                    "dateOfBirth": "1991-04-01",
+                    "nationality": "Colombia",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 586,
+                    "name": "Torino FC",
+                    "shortName": "Torino",
+                    "tla": "TOR",
+                    "crest": "https://crests.football-data.org/586.png",
+                    "address": "Via Arcivescovado 1 Torino 10122",
+                    "website": "http://www.torinofc.it",
+                    "founded": 1894,
+                    "clubColors": "Brown / White",
+                    "venue": "Stadio Olimpico di Torino",
+                    "lastUpdated": "2024-04-09T16:20:07Z"
+               },
+               "playedMatches": 37,
+               "goals": 13,
+               "assists": 5,
+               "penalties": null
+          },
+          {
+               "player": {
+                    "id": 8685,
+                    "name": "Marcus Thuram-Ulien",
+                    "firstName": "Marcus",
+                    "lastName": "Thuram",
+                    "dateOfBirth": "1997-08-06",
+                    "nationality": "France",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 108,
+                    "name": "FC Internazionale Milano",
+                    "shortName": "Inter",
+                    "tla": "INT",
+                    "crest": "https://crests.football-data.org/108.png",
+                    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+                    "website": "http://www.inter.it",
+                    "founded": 1908,
+                    "clubColors": "Blue / Black",
+                    "venue": "Stadio Giuseppe Meazza",
+                    "lastUpdated": "2021-11-24T14:55:58Z"
+               },
+               "playedMatches": 36,
+               "goals": 13,
+               "assists": 8,
+               "penalties": null
+          },
+          {
+               "player": {
+                    "id": 1754,
+                    "name": "Hakan \u00c7alhano\u011flu",
+                    "firstName": "Hakan",
+                    "lastName": "\u00c7alhano\u011flu",
+                    "dateOfBirth": "1994-02-08",
+                    "nationality": "Turkey",
+                    "section": "Defensive Midfield",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 108,
+                    "name": "FC Internazionale Milano",
+                    "shortName": "Inter",
+                    "tla": "INT",
+                    "crest": "https://crests.football-data.org/108.png",
+                    "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+                    "website": "http://www.inter.it",
+                    "founded": 1908,
+                    "clubColors": "Blue / Black",
+                    "venue": "Stadio Giuseppe Meazza",
+                    "lastUpdated": "2021-11-24T14:55:58Z"
+               },
+               "playedMatches": 35,
+               "goals": 13,
+               "assists": 3,
+               "penalties": 10
+          },
+          {
+               "player": {
+                    "id": 2046,
+                    "name": "Paulo Dybala",
+                    "firstName": "Paulo",
+                    "lastName": "Dybala",
+                    "dateOfBirth": "1993-11-15",
+                    "nationality": "Argentina",
+                    "section": "Offence",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2023-07-30T22:13:11Z"
+               },
+               "team": {
+                    "id": 100,
+                    "name": "AS Roma",
+                    "shortName": "Roma",
+                    "tla": "ROM",
+                    "crest": "https://crests.football-data.org/100.png",
+                    "address": "Via di Trigoria km. 3,600 Roma 00128",
+                    "website": "http://www.asroma.it",
+                    "founded": 1927,
+                    "clubColors": "Maroon / Orange / White",
+                    "venue": "Stadio Olimpico",
+                    "lastUpdated": "2025-02-17T16:53:31Z"
+               },
+               "playedMatches": 29,
+               "goals": 13,
+               "assists": 8,
+               "penalties": 7
+          },
+          {
+               "player": {
+                    "id": 3662,
+                    "name": "Romelu Lukaku",
+                    "firstName": "Romelu",
+                    "lastName": "Lukaku",
+                    "dateOfBirth": "1993-05-13",
+                    "nationality": "Belgium",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-23T09:25:23Z"
+               },
+               "team": {
+                    "id": 100,
+                    "name": "AS Roma",
+                    "shortName": "Roma",
+                    "tla": "ROM",
+                    "crest": "https://crests.football-data.org/100.png",
+                    "address": "Via di Trigoria km. 3,600 Roma 00128",
+                    "website": "http://www.asroma.it",
+                    "founded": 1927,
+                    "clubColors": "Maroon / Orange / White",
+                    "venue": "Stadio Olimpico",
+                    "lastUpdated": "2025-02-17T16:53:31Z"
+               },
+               "playedMatches": 32,
+               "goals": 13,
+               "assists": 3,
+               "penalties": null
+          }
+     ]
+}

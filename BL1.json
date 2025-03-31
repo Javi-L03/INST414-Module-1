@@ -1,0 +1,345 @@
+{
+     "count": 10,
+     "filters": {
+          "season": 2023,
+          "limit": 10
+     },
+     "competition": {
+          "id": 2002,
+          "name": "Bundesliga",
+          "code": "BL1",
+          "type": "LEAGUE",
+          "emblem": "https://crests.football-data.org/BL1.png"
+     },
+     "season": {
+          "id": 1592,
+          "startDate": "2023-08-18",
+          "endDate": "2024-05-18",
+          "currentMatchday": 34,
+          "winner": {
+               "id": 3,
+               "name": "Bayer 04 Leverkusen",
+               "shortName": "Leverkusen",
+               "tla": "B04",
+               "crest": "https://crests.football-data.org/3.png",
+               "address": "Bismarckstr. 122-124 Leverkusen 51373",
+               "website": "http://www.bayer04.de",
+               "founded": 1904,
+               "clubColors": "Red / White / Black",
+               "venue": "BayArena",
+               "lastUpdated": "2022-02-25T16:43:07Z"
+          }
+     },
+     "scorers": [
+          {
+               "player": {
+                    "id": 8004,
+                    "name": "Harry Kane",
+                    "firstName": "Harry",
+                    "lastName": "Kane",
+                    "dateOfBirth": "1993-07-28",
+                    "nationality": "England",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-12T11:57:09Z"
+               },
+               "team": {
+                    "id": 5,
+                    "name": "FC Bayern M\u00fcnchen",
+                    "shortName": "Bayern",
+                    "tla": "FCB",
+                    "crest": "https://crests.football-data.org/5.png",
+                    "address": "S\u00e4benerstr. 51 M\u00fcnchen 81547",
+                    "website": "http://www.fcbayern.de",
+                    "founded": 1900,
+                    "clubColors": "Red / White / Blue",
+                    "venue": "Allianz Arena",
+                    "lastUpdated": "2024-07-09T17:26:37Z"
+               },
+               "playedMatches": 32,
+               "goals": 36,
+               "assists": 8,
+               "penalties": 5
+          },
+          {
+               "player": {
+                    "id": 211,
+                    "name": "Sehrou Guirassy",
+                    "firstName": "Serhou",
+                    "lastName": "Guirassy",
+                    "dateOfBirth": "1996-03-12",
+                    "nationality": "Guinea",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": 9,
+                    "lastUpdated": "2024-08-12T11:57:09Z"
+               },
+               "team": {
+                    "id": 10,
+                    "name": "VfB Stuttgart",
+                    "shortName": "Stuttgart",
+                    "tla": "VFB",
+                    "crest": "https://crests.football-data.org/10.png",
+                    "address": "Mercedesstra\u00dfe 109 Stuttgart 70372",
+                    "website": "http://www.vfb.de",
+                    "founded": 1893,
+                    "clubColors": "White / Red",
+                    "venue": "Mercedes-Benz Arena",
+                    "lastUpdated": "2023-02-28T07:59:06Z"
+               },
+               "playedMatches": 28,
+               "goals": 28,
+               "assists": 4,
+               "penalties": 4
+          },
+          {
+               "player": {
+                    "id": 73215,
+                    "name": "Lo\u00efs Openda",
+                    "firstName": "Lo\u00efs",
+                    "lastName": "Openda",
+                    "dateOfBirth": "2000-02-16",
+                    "nationality": "Belgium",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-10-11T09:41:12Z"
+               },
+               "team": {
+                    "id": 721,
+                    "name": "RB Leipzig",
+                    "shortName": "RB Leipzig",
+                    "tla": "RBL",
+                    "crest": "https://crests.football-data.org/721.png",
+                    "address": "Neumarkt 29-33 Leipzig 04109",
+                    "website": "http://www.dierotenbullen.com",
+                    "founded": 2009,
+                    "clubColors": "White / Red",
+                    "venue": "Red Bull Arena",
+                    "lastUpdated": "2022-02-19T09:03:00Z"
+               },
+               "playedMatches": 34,
+               "goals": 24,
+               "assists": 8,
+               "penalties": 2
+          },
+          {
+               "player": {
+                    "id": 6928,
+                    "name": "Deniz Undav",
+                    "firstName": "Deniz",
+                    "lastName": "Undav",
+                    "dateOfBirth": "1996-07-19",
+                    "nationality": "Germany",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": 9,
+                    "lastUpdated": "2024-10-11T09:41:02Z"
+               },
+               "team": {
+                    "id": 10,
+                    "name": "VfB Stuttgart",
+                    "shortName": "Stuttgart",
+                    "tla": "VFB",
+                    "crest": "https://crests.football-data.org/10.png",
+                    "address": "Mercedesstra\u00dfe 109 Stuttgart 70372",
+                    "website": "http://www.vfb.de",
+                    "founded": 1893,
+                    "clubColors": "White / Red",
+                    "venue": "Mercedes-Benz Arena",
+                    "lastUpdated": "2023-02-28T07:59:06Z"
+               },
+               "playedMatches": 30,
+               "goals": 18,
+               "assists": 10,
+               "penalties": null
+          },
+          {
+               "player": {
+                    "id": 133903,
+                    "name": "Maximilian Beier",
+                    "firstName": "Maximilian",
+                    "lastName": "Beier",
+                    "dateOfBirth": "2002-10-17",
+                    "nationality": "Germany",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-12T11:57:09Z"
+               },
+               "team": {
+                    "id": 2,
+                    "name": "TSG 1899 Hoffenheim",
+                    "shortName": "Hoffenheim",
+                    "tla": "TSG",
+                    "crest": "https://crests.football-data.org/2.png",
+                    "address": "Horrenberger Stra\u00dfe 58 Zuzenhausen 74939",
+                    "website": "http://www.achtzehn99.de",
+                    "founded": 1921,
+                    "clubColors": "Blue / White",
+                    "venue": "PreZero Arena",
+                    "lastUpdated": "2022-02-25T16:49:58Z"
+               },
+               "playedMatches": 33,
+               "goals": 16,
+               "assists": 3,
+               "penalties": null
+          },
+          {
+               "player": {
+                    "id": 318,
+                    "name": "Andrej Kramari\u0107",
+                    "firstName": "Andrej",
+                    "lastName": "Kramari\u0107",
+                    "dateOfBirth": "1991-06-19",
+                    "nationality": "Croatia",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-12T11:57:09Z"
+               },
+               "team": {
+                    "id": 2,
+                    "name": "TSG 1899 Hoffenheim",
+                    "shortName": "Hoffenheim",
+                    "tla": "TSG",
+                    "crest": "https://crests.football-data.org/2.png",
+                    "address": "Horrenberger Stra\u00dfe 58 Zuzenhausen 74939",
+                    "website": "http://www.achtzehn99.de",
+                    "founded": 1921,
+                    "clubColors": "Blue / White",
+                    "venue": "PreZero Arena",
+                    "lastUpdated": "2022-02-25T16:49:58Z"
+               },
+               "playedMatches": 31,
+               "goals": 15,
+               "assists": 6,
+               "penalties": 5
+          },
+          {
+               "player": {
+                    "id": 33242,
+                    "name": "Ermedin Demirovic",
+                    "firstName": "Ermedin",
+                    "lastName": "Demirovi\u0107",
+                    "dateOfBirth": "1998-03-25",
+                    "nationality": "Bosnia-Herzegovina",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-12T11:57:09Z"
+               },
+               "team": {
+                    "id": 16,
+                    "name": "FC Augsburg",
+                    "shortName": "Augsburg",
+                    "tla": "FCA",
+                    "crest": "https://crests.football-data.org/16.png",
+                    "address": "Donauw\u00f6rther Stra\u00dfe 170 Augsburg 86154",
+                    "website": "http://www.fcaugsburg.de",
+                    "founded": 1907,
+                    "clubColors": "Red / Green / White",
+                    "venue": "WWK Arena",
+                    "lastUpdated": "2023-02-28T07:59:40Z"
+               },
+               "playedMatches": 33,
+               "goals": 15,
+               "assists": 10,
+               "penalties": 3
+          },
+          {
+               "player": {
+                    "id": 130811,
+                    "name": "Victor Boniface",
+                    "firstName": "Victor",
+                    "lastName": "Boniface",
+                    "dateOfBirth": "2000-12-23",
+                    "nationality": "Nigeria",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": 8,
+                    "lastUpdated": "2024-10-09T09:41:00Z"
+               },
+               "team": {
+                    "id": 3,
+                    "name": "Bayer 04 Leverkusen",
+                    "shortName": "Leverkusen",
+                    "tla": "B04",
+                    "crest": "https://crests.football-data.org/3.png",
+                    "address": "Bismarckstr. 122-124 Leverkusen 51373",
+                    "website": "http://www.bayer04.de",
+                    "founded": 1904,
+                    "clubColors": "Red / White / Black",
+                    "venue": "BayArena",
+                    "lastUpdated": "2022-02-25T16:43:07Z"
+               },
+               "playedMatches": 23,
+               "goals": 14,
+               "assists": 9,
+               "penalties": 4
+          },
+          {
+               "player": {
+                    "id": 124244,
+                    "name": "Benjamin \u0160e\u0161ko",
+                    "firstName": "Benjamin",
+                    "lastName": "\u0160e\u0161ko",
+                    "dateOfBirth": "2003-05-31",
+                    "nationality": "Slovenia",
+                    "section": "Centre-Forward",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-10-11T09:41:12Z"
+               },
+               "team": {
+                    "id": 721,
+                    "name": "RB Leipzig",
+                    "shortName": "RB Leipzig",
+                    "tla": "RBL",
+                    "crest": "https://crests.football-data.org/721.png",
+                    "address": "Neumarkt 29-33 Leipzig 04109",
+                    "website": "http://www.dierotenbullen.com",
+                    "founded": 2009,
+                    "clubColors": "White / Red",
+                    "venue": "Red Bull Arena",
+                    "lastUpdated": "2022-02-19T09:03:00Z"
+               },
+               "playedMatches": 33,
+               "goals": 14,
+               "assists": 2,
+               "penalties": null
+          },
+          {
+               "player": {
+                    "id": 7457,
+                    "name": "Donyell Malen",
+                    "firstName": "Donyell",
+                    "lastName": "Malen",
+                    "dateOfBirth": "1999-01-19",
+                    "nationality": "Netherlands",
+                    "section": "Right Winger",
+                    "position": null,
+                    "shirtNumber": null,
+                    "lastUpdated": "2024-08-12T11:57:09Z"
+               },
+               "team": {
+                    "id": 4,
+                    "name": "Borussia Dortmund",
+                    "shortName": "Dortmund",
+                    "tla": "BVB",
+                    "crest": "https://crests.football-data.org/4.png",
+                    "address": "Rheinlanddamm 207-209 Dortmund 44137",
+                    "website": "http://www.bvb.de",
+                    "founded": 1909,
+                    "clubColors": "Black / Yellow",
+                    "venue": "Signal Iduna Park",
+                    "lastUpdated": "2022-02-25T16:50:16Z"
+               },
+               "playedMatches": 29,
+               "goals": 13,
+               "assists": 3,
+               "penalties": null
+          }
+     ]
+}
